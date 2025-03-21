@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\bin\Debug\net9.0\35_Exeptis_Game.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\bin\Debug\net9.0\35_Exeptis_Game.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\bin\Debug\net9.0\35_Exeptis_Game.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\bin\Debug\net9.0\35_Exeptis_Game.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\bin\Debug\net9.0\35_Exeptis_Game.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\refint\35_Exeptis_Game.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\35_Exeptis_Game.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\35_ErrorExceptions_Challenges\35_Exeptis_GameApp\35_Exeptis_Game\obj\Debug\net9.0\ref\35_Exeptis_Game.dll

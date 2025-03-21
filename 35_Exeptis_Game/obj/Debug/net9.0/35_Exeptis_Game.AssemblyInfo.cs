@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("35_Exeptis_Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+638e9c5a59740d5da7bea4162368b832564b5cb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("35_Exeptis_Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("35_Exeptis_Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
